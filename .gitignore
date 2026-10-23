@@ -1,0 +1,22 @@
+# Documentação do DataSUS (pública, baixada do site oficial)
+Docs/
+*.ZIP
+*.zip
+
+# Versões antigas e rascunhos
+tabelas_cnes.py
+*.ipynb
+.ipynb_checkpoints/
+
+# Arquivos gerados pela carga
+falhas_cnes_*.txt
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Variáveis de ambiente e credenciais
+.env

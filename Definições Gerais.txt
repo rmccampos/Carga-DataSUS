@@ -1,0 +1,35 @@
+• ST (Estabelecimentos - ST.dbc):
+	• O que contém: Dados gerais da unidade de saúde.
+	• Exemplos de informações: CNES da unidade, CNPJ/CPF, nome fantasia, tipo de estabelecimento (ex: Posto de Saúde, Clínica, Hospital), esfera administrativa (pública, privada, conveniada), turno de atendimento e se realiza atendimento ao SUS.
+
+
+• PF (Profissionais - PF.dbc):
+	• O que contém: Informações sobre os profissionais vinculados aos estabelecimentos.
+	• Exemplos de informações: Nome, CPF, Cartão Nacional de Saúde (CNS), Classificação Brasileira Ocupações (CBO), se atende SUS ou não, e o tipo de vínculo empregatício.
+
+
+• EP (Equipes - EP.dbc):
+	• O que contém: Dados sobre as equipes formadas dentro dos estabelecimentos (muito forte na Atenção Primária).
+	• Exemplos de informações: Código da equipe, tipo de equipe (ex: Saúde da Família, Saúde Bucal, NASF), área e município de atuação.
+
+
+• LE (Leitos - LE.dbc):
+	• O que contém: Dados detalhados sobre a capacidade de internação hospitalar.
+	• Exemplos de informações: Tipo de leito (clínico, cirúrgico, UTI, obstétrico, etc.), quantidade de leitos existentes e quantidade de leitos disponíveis para o SUS.
+
+
+• EQ (Equipamentos - EQ.dbc):
+	• O que contém: Relação do parque tecnológico e equipamentos disponíveis no estabelecimento.
+	• Exemplos de informações: Tipo de equipamento (ex: raio-x, tomógrafo, ultrassonografia), quantidade total e se está em funcionamento ou vinculado ao SUS.
+
+
+• SR (Serviços Especializados - SR.dbc):
+	• Lista os serviços especializados prestados pelo estabelecimento.
+
+
+• HB (Habilitações - HB.dbc):
+	• Detalha as habilitações oficiais que a unidade possui junto ao Ministério da Saúde (ex: UTI Tipo II, Centro de Referência).
+
+
+• RC (Regras Contratuais - RC.dbc):
+	• Informações sobre os contratos de gestão ou convênios firmados com o gestor público.
